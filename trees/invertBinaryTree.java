@@ -1,4 +1,8 @@
 public class invertBinaryTree {
+    // LeetCode Easy
+    // Time Complexity: O(n)
+    // Invert the children of each node.
+    
     public TreeNode invertTree(TreeNode root)
     {
         //empty tree
